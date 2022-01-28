@@ -1,0 +1,59 @@
+File does not exist, I JUST CREATED IT, exiting...
+
+
+Simple Hospital Management System
+     ********
+        **  
+        ** 
+        **
+**Enter your choice**
+
+1. Add Information
+2. View Information
+3. Search
+4. Edit Information
+5. Delete Information
+6. Exit
+
+Option=11
+sh: 1: cls: not found
+
+
+Invalid input , try again by using valid inputs
+
+**Enter your choice**
+
+1. Add Information
+2. View Information
+3. Search
+4. Edit Information
+5. Delete Information
+6. Exit
+
+Option=1
+sh: 1: cls: not found
+
+
+Already data inputed on the database =0
+
+How many entry do you want to add=
+1
+
+Enter patient's Name = kanagraj
+Enter disease = covid 19
+Enter the age = 113
+Enter cabin no = 1
+Enter phone number = 91919191919
+
+
+
+**Enter your choice**
+
+1. Add Information
+2. View Information
+3. Search
+4. Edit Information
+5. Delete Information
+6. Exit
+
+Option=6
